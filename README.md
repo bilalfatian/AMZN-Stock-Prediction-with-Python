@@ -11,6 +11,7 @@
 8. [Références](#références)
 9. [Contact Me](#contact)
 
+#introduction
 ## Introduction
 Dans ce projet, j'ai exploré et appliqué des modèles ARIMA (AutoRegressive Integrated Moving Average) et SARIMA (Seasonal AutoRegressive Integrated Moving Average) pour l'analyse de séries temporelles des prix de clôture d'Amazon. Les modèles ARIMA et SARIMA sont largement utilisés dans la modélisation des séries temporelles pour faire des prévisions et capturer les tendances, les saisons et les cycles dans les données.
 
@@ -40,6 +41,7 @@ $$ Y_t = c + \phi_1 Y_{t-1} + \phi_2 Y_{t-2} + ... + \phi_p Y_{t-p} + \theta_1 e
 
 Où les termes AR, MA et résiduels sont appliqués à la série décalée par une période saisonnière $s$.
 
+#mes-objectifs
 ## Mes objectifs 🎯
 Dans ce projet, mon objectif était de :
 - Analyser les séries temporelles des prix de clôture d'Amazon.
