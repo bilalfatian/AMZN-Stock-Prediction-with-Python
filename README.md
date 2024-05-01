@@ -9,7 +9,7 @@
 6. [Démarche utilisée](#démarche-utilisée)
 7. [Conclusion](#conclusion)
 8. [Références](#références)
-9. [Contact Me](#contact)
+9. [Contactez moi](#contact)
 
 ## Introduction
 Dans ce projet, j'ai exploré et appliqué des modèles ARIMA (AutoRegressive Integrated Moving Average) et SARIMA (Seasonal AutoRegressive Integrated Moving Average) pour l'analyse de séries temporelles des prix de clôture d'Amazon. Les modèles ARIMA et SARIMA sont largement utilisés dans la modélisation des séries temporelles pour faire des prévisions et capturer les tendances, les saisons et les cycles dans les données.
@@ -86,7 +86,7 @@ Ce projet consiste à appliquer les modèles ARIMA et SARIMA pour l'analyse de s
 ## Conclusion
 Ce projet a démontré l'efficacité des modèles ARIMA et SARIMA dans l'analyse et la prévision des séries temporelles. Les compétences acquises dans ce projet peuvent être appliquées à divers domaines tels que la finance, l'économie, la météo, la santé, etc., où l'analyse des séries temporelles est essentielle pour la prise de décision.
 
-## Contact Me 📨
+## Contactez moi 📨
 
 - **LinkedIn:** [Bilal Fatian](https://www.linkedin.com/in/bilal-fatian-806813254/)
 - **Gmail:** [fatian.bilal@gmail.com](mailto:fatian.bilal@gmail.com)
