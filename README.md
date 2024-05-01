@@ -8,7 +8,6 @@
 5. [Description](#description)
 6. [Démarche utilisée](#démarche-utilisée)
 7. [Conclusion](#conclusion)
-8. [Références](#références)
 9. [Contactez moi](#contact)
 
 ## Introduction
